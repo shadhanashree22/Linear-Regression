@@ -1,4 +1,6 @@
 # Linear-Regression
+## NAME: S V SHADHANASHREE
+## REGISTER NUMBER:212223230202
 
 ## a) Stock Market Prediction using Linear Regression
 
